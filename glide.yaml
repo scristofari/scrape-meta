@@ -1,7 +1,0 @@
-package: github.com/scristofari/scraper
-import:
-- package: github.com/yhat/scrape
-- package: golang.org/x/net
-  subpackages:
-  - html
-  - html/atom
